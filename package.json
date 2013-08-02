@@ -1,0 +1,11 @@
+{
+    "name": "mongo-node-starter",
+    "description": "YOUR PROJECT DESCRIPTION HERE",
+    "author": "Sam Hogg <sam.hogg@orionhealth.com>",
+    "version": "0.0.1",
+    "dependencies": {
+        "mongodb" : "*",
+        "mongoose": "2.4.8"
+    },
+    "engine": "node >= 0.6.6"
+}
